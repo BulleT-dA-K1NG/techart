@@ -1,0 +1,1 @@
+<?$conn = new mysqli("localhost", "nurlankp_bd", "u*sg*w3ehTP4", "nurlankp_bd");?>
